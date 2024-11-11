@@ -1,0 +1,1 @@
+This project explores the impact the success (or lackthereof) a sports team finds has on the overall happiness of the respective region/city. The scope extends to the three major sports leagues in the United States - the NBA, NFL, and MLB - and cities throughout the United States. 
